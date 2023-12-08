@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+            "id":1,
+            "username":"elnurxo",
+            "password":"Elnur123",
+            "email":"elnur@gmail.com",
+            "isAdmin":true
+        },
+        {
+            "id":2,
+            "username":"eldarl",
+            "password":"Eldar123",
+            "email":"eldar@gmail.com",
+            "isAdmin":false
+        }
+    ],
+    "products": [
+        {
+            "id":1,
+            "name":"coca cola",
+            "price": 1.4
+        },
+        {
+            "id":2,
+            "name":"fanta",
+            "price": 2.2
+        },
+        {
+            "id":3,
+            "name":"sprite",
+            "price": 3
+        }
+    ]
+}
